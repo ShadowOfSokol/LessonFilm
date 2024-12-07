@@ -52,7 +52,7 @@
 
 1. **Завантажте репозиторій**:
    ```bash
-   git clone <URL-репозиторію>
+   git clone https://github.com/ShadowOfSokol/LessonFilm.git
    ```
 2. **Встановіть залежності**: 
 
